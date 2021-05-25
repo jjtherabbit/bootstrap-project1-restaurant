@@ -1,0 +1,33 @@
+body{
+    background: url("Pictures/bkg.jpg") center/cover no-repeat;
+    background-attachment: fixed;
+}
+
+.isize{
+    width:12rem;
+    height:6rem;
+}
+
+.btnsize{
+    width:2.5rem;
+    height:2.5rem;
+}
+
+.menuicon{
+
+    width:4rem;
+    height:3rem;
+}
+
+.cimg{
+    height: 25rem;
+}
+
+.special{
+    height: 15rem;
+}
+
+.fimg{
+    width:100%;
+    opacity:0.7;
+}
